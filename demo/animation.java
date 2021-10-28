@@ -6,7 +6,7 @@ public class animation
     String file_path;
     int frame = 1;
     int X;
-    int Y;
+    int Y; // qosudhoqsudhqs
     GreenfootImage image;
 
     public animation(String path)
